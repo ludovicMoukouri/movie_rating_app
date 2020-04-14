@@ -30,7 +30,7 @@
  </div>
 </template>
 <script>
-import MoviesServices from '../services/moviesServices';
+import MoviesServices from '../../services/moviesServices';
 import bus from '../bus';
 
 export default {
